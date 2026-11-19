@@ -1,0 +1,4 @@
+let "/join team green" 
+If "/join team green" responds with " unknown command " edit function to
+2964 "gamertag_name" green color highlight "gamer_tag"
+Else "successfully joined Green Team" Leave alone
