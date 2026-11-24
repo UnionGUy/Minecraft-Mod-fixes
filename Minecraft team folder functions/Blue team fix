@@ -8,5 +8,5 @@ function handleJoinTeamBlue(response, gamertagName) {
     };
   }
 
-  return "successfully joined Green Team";
+  return "successfully joined Blue Team";
 }
